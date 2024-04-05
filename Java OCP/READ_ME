@@ -1,0 +1,28 @@
+Course Content
+
+1. Java primitive data types and string apis
+2. operators and decision constructs
+3. java arrays
+4. describing and using objects and classes
+5. creating and using methods
+6. applying encapsulation
+7. reusing implementations through inheritance
+8. programming abstractly through interfaces
+9. handling exceptions
+10. understanding modules
+11. exception handling and asserstions
+12. java interfaces
+13. generics and collections
+14. functional interfaces and lambda expressions
+15. build-in functional interfaces
+16. jva steram api
+17. lambda operations on stream
+18. mirgration to modula pplication
+19. services in modular application
+20. concurrency
+21. parallel streams
+22. I/O
+23. secure coding in java se applications
+24. database applications with jdbc
+25. localiztion
+26. annotations
